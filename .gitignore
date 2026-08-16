@@ -1,3 +1,4 @@
 .env
 lesson_1.py
 .vscode
+.gitignore
