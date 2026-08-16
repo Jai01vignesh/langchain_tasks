@@ -1,3 +1,5 @@
 .env
 lesson_1.py
 .vscode
+.langgraph_api
+__pycache_
